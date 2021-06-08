@@ -1,0 +1,39 @@
+h1{
+    background-color:magenta;
+
+    
+}
+
+.header{
+
+    color:#0000ff;
+
+background-color:#ffff00;
+
+    font-family:cursive ;
+}
+.mid{
+
+    color:#ff0000;
+
+    display:flex;
+    justify-content:space-between;
+
+    background-color: #00ffff;
+}
+.pigeon{
+
+
+    color:#ff0000;
+
+    font-family: sans-serif
+
+}
+.chameleon{
+
+  
+
+    color:#008800;
+
+    font-family : 'Times New Roman', Times, serif
+} 
